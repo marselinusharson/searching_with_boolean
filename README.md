@@ -2,24 +2,4 @@
 latihan konsep array searching with boolean
 
 # alur program 1:
-function greatherThan(input array[1...size], size : integer) → boolean
-{mengecek bahwa semua nilai dalam array lebih besar dari bilangan pembanding yang akan diinput user}
-kamus:
-i : integer
-comparisonNumber : integer
-found : booleaan
-
-Proses:
-i ← 1
-found ←  true
-
-read(comparisonNumber)
-while i <= size and found == true do
-  if array[i] >= comparison number then
-    found ← false
-  else
-    i = i + 1
-  endif
-endwhile
-
-Output (found)
+![pcp1](https://user-images.githubusercontent.com/89442619/163285643-1a157f5f-16f4-40c2-92df-2e1c3b10df9c.png)
